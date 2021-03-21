@@ -1,4 +1,4 @@
 {
-    "markdown.extension.math.enabled": false,
-    "markdown.preview.fontSize": 17
+    "markdown.preview.fontSize": 15,
+    "markdown.extension.math.enabled": true
 }
