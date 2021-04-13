@@ -11,6 +11,10 @@ C_4 = (-64.0*m + k) / (256.0 + 4096*m**2 - 128.0*m*k + k**2)
 C_1 = (lambda_2*C_3 - 8.0*C_4 + 3.0 + 3.0*lambda_2) / (lambda_1 - lambda_2)
 C_2 = (-lambda_1*C_3 + 8.0*C_4 - 3.0 - 3.0*lambda_1) / (lambda_1 - lambda_2)
 
+print(f"lambda_1 = {lambda_1}; lambda_2 = {lambda_2}")
+print(f"C_1 = {C_1}; C_2 = {C_2}")
+print(f"C_3 = {C_3}; C_4 = {C_4}")
+
 def y(t:float) -> float:
     return C_1*numpy.exp(lambda_1*t) + \
         C_2*numpy.exp(lambda_2*t) + \
