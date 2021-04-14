@@ -10,7 +10,7 @@ C_2 = 250.0 * numpy.sqrt(L*C) * C_4
 print(f"C_1 = {C_1}; C_2 = {C_2}; C_4 = {C_4}")
 
 def Q(t:float) -> float:
-    return C_1*numpy.exp(t / numpy.sqrt(L*C)) - \
+    return C_1*numpy.exp(t / numpy.sqrt(L*C)) + \
         C_2*numpy.exp(-t / numpy.sqrt(L*C)) + \
         C_4*numpy.sin(500*t)
 
