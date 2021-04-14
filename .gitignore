@@ -1,2 +1,4 @@
 PS*/PS*.pdf
 AEM*.pdf
+# .vscode/
+PS04/*.png
