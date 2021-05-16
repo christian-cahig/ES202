@@ -12,7 +12,7 @@ A repository of stuff related to the ES 202 course handled by Shahani T. Lagura.
 - [ ] :book: Bessel's equation
 - [x] :pen: Problem 1
   - [Source](https://socratic.org/questions/how-do-you-use-power-series-to-solve-the-differential-equation-y-2xy-y-0)
-- [ ] :pen: Problem 2
+- [x] :pen: Problem 2
 - [ ] :pen: Problem 3
 - [ ] :pen: Problem 4
 - [ ] :pen: Problem 5
