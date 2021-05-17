@@ -7,8 +7,9 @@ A repository of stuff related to the ES 202 course handled by Shahani T. Lagura.
 ### Problem Set 5
 
 - [x] :book: Power series solution to ODEs
-- [ ] :book: Legendre's equation
+- [x] :book: Legendre's equation
 - [ ] :book: Frobenius method
+  - [x] [Resource by T. Gantumur](https://www.math.mcgill.ca/gantumur/math315w14/downloads/frobenius.pdf)
 - [ ] :book: Bessel's equation
 - [x] :pen: Problem 1
   - [Source](https://socratic.org/questions/how-do-you-use-power-series-to-solve-the-differential-equation-y-2xy-y-0)
