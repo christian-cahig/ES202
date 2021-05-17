@@ -1,3 +1,4 @@
 {
-    "markdown.preview.fontSize": 17
+    "markdown.preview.fontSize": 17,
+    "markdown.preview.scrollEditorWithPreview": false
 }
