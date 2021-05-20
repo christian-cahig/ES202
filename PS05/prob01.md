@@ -41,7 +41,7 @@ $$
 =
 \sum_{m=0}^{\infty} \left(m + 2\right) \left(m + 1\right) a_{m+2} x^{m}
 $$
-Moreover, notice that the index of second series in (1.3) can start at $m = 0$:
+Moreover, notice that the index of second series can start at $m = 0$:
 
 $$
 \sum_{m=1}^{\infty} m a_{m} x^{m}
