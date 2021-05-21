@@ -4,3 +4,4 @@ AEM*.pdf
 PS04/*.png
 PS05/*.png
 es202/
+**/__pycache__/
