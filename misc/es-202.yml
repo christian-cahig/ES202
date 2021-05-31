@@ -1,0 +1,25 @@
+name: D:\OneDrive\ES 202\misc\es-202
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2021.5.30
+  - certifi=2021.5.30
+  - intel-openmp=2021.2.0
+  - libblas=3.9.0
+  - libcblas=3.9.0
+  - liblapack=3.9.0
+  - mkl=2021.2.0
+  - numpy=1.20.3
+  - openssl=1.1.1k
+  - pip=21.1.1
+  - python=3.8.5
+  - python_abi=3.8
+  - setuptools=52.0.0
+  - sqlite=3.35.4
+  - tbb=2021.2.0
+  - vc=14.2
+  - vs2015_runtime=14.27.29016
+  - wheel=0.36.2
+  - wincertstore=0.2
+prefix: D:\OneDrive\ES 202\misc\es-202
