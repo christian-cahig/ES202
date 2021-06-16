@@ -1,4 +1,9 @@
 {
     "markdown.preview.fontSize": 17,
-    "markdown.preview.scrollEditorWithPreview": false
+    "markdown.preview.scrollEditorWithPreview": false,
+    "python.pythonPath": "C:\\Users\\yanya\\Documents\\OneDrive\\ES 202\\es202\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.mypyEnabled": false,
+    "python.linting.pylamaEnabled": false
 }

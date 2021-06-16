@@ -3,4 +3,5 @@ AEM*.pdf
 # .vscode/
 PS04/*.png
 PS05/*.png
-es202/
+misc/es-202/
+**/__pycache__/
